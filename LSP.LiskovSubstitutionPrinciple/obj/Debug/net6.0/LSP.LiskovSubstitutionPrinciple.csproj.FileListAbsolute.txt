@@ -1,0 +1,15 @@
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\LSP.LiskovSubstitutionPrinciple\bin\Debug\net6.0\LSP.LiskovSubstitutionPrinciple.exe
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\LSP.LiskovSubstitutionPrinciple\bin\Debug\net6.0\LSP.LiskovSubstitutionPrinciple.deps.json
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\LSP.LiskovSubstitutionPrinciple\bin\Debug\net6.0\LSP.LiskovSubstitutionPrinciple.runtimeconfig.json
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\LSP.LiskovSubstitutionPrinciple\bin\Debug\net6.0\LSP.LiskovSubstitutionPrinciple.dll
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\LSP.LiskovSubstitutionPrinciple\bin\Debug\net6.0\LSP.LiskovSubstitutionPrinciple.pdb
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\LSP.LiskovSubstitutionPrinciple\obj\Debug\net6.0\LSP.LiskovSubstitutionPrinciple.csproj.AssemblyReference.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\LSP.LiskovSubstitutionPrinciple\obj\Debug\net6.0\LSP.LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\LSP.LiskovSubstitutionPrinciple\obj\Debug\net6.0\LSP.LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\LSP.LiskovSubstitutionPrinciple\obj\Debug\net6.0\LSP.LiskovSubstitutionPrinciple.AssemblyInfo.cs
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\LSP.LiskovSubstitutionPrinciple\obj\Debug\net6.0\LSP.LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\LSP.LiskovSubstitutionPrinciple\obj\Debug\net6.0\LSP.LiskovSubstitutionPrinciple.dll
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\LSP.LiskovSubstitutionPrinciple\obj\Debug\net6.0\refint\LSP.LiskovSubstitutionPrinciple.dll
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\LSP.LiskovSubstitutionPrinciple\obj\Debug\net6.0\LSP.LiskovSubstitutionPrinciple.pdb
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\LSP.LiskovSubstitutionPrinciple\obj\Debug\net6.0\LSP.LiskovSubstitutionPrinciple.genruntimeconfig.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\LSP.LiskovSubstitutionPrinciple\obj\Debug\net6.0\ref\LSP.LiskovSubstitutionPrinciple.dll
