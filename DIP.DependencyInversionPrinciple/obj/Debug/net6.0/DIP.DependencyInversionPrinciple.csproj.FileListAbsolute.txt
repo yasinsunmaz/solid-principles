@@ -1,0 +1,15 @@
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\DIP.DependencyInversionPrinciple\obj\Debug\net6.0\DIP.DependencyInversionPrinciple.csproj.AssemblyReference.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\DIP.DependencyInversionPrinciple\obj\Debug\net6.0\DIP.DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\DIP.DependencyInversionPrinciple\obj\Debug\net6.0\DIP.DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\DIP.DependencyInversionPrinciple\obj\Debug\net6.0\DIP.DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\DIP.DependencyInversionPrinciple\obj\Debug\net6.0\DIP.DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\DIP.DependencyInversionPrinciple\bin\Debug\net6.0\DIP.DependencyInversionPrinciple.exe
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\DIP.DependencyInversionPrinciple\bin\Debug\net6.0\DIP.DependencyInversionPrinciple.deps.json
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\DIP.DependencyInversionPrinciple\bin\Debug\net6.0\DIP.DependencyInversionPrinciple.runtimeconfig.json
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\DIP.DependencyInversionPrinciple\bin\Debug\net6.0\DIP.DependencyInversionPrinciple.dll
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\DIP.DependencyInversionPrinciple\bin\Debug\net6.0\DIP.DependencyInversionPrinciple.pdb
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\DIP.DependencyInversionPrinciple\obj\Debug\net6.0\DIP.DependencyInversionPrinciple.dll
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\DIP.DependencyInversionPrinciple\obj\Debug\net6.0\refint\DIP.DependencyInversionPrinciple.dll
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\DIP.DependencyInversionPrinciple\obj\Debug\net6.0\DIP.DependencyInversionPrinciple.pdb
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\DIP.DependencyInversionPrinciple\obj\Debug\net6.0\DIP.DependencyInversionPrinciple.genruntimeconfig.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\DIP.DependencyInversionPrinciple\obj\Debug\net6.0\ref\DIP.DependencyInversionPrinciple.dll
