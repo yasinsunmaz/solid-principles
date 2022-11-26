@@ -1,0 +1,15 @@
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\OCP.OpenClosedPrinciple\bin\Debug\net6.0\OCP.OpenClosedPrinciple.exe
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\OCP.OpenClosedPrinciple\bin\Debug\net6.0\OCP.OpenClosedPrinciple.deps.json
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\OCP.OpenClosedPrinciple\bin\Debug\net6.0\OCP.OpenClosedPrinciple.runtimeconfig.json
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\OCP.OpenClosedPrinciple\bin\Debug\net6.0\OCP.OpenClosedPrinciple.dll
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\OCP.OpenClosedPrinciple\bin\Debug\net6.0\OCP.OpenClosedPrinciple.pdb
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\OCP.OpenClosedPrinciple\obj\Debug\net6.0\OCP.OpenClosedPrinciple.csproj.AssemblyReference.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\OCP.OpenClosedPrinciple\obj\Debug\net6.0\OCP.OpenClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\OCP.OpenClosedPrinciple\obj\Debug\net6.0\OCP.OpenClosedPrinciple.AssemblyInfoInputs.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\OCP.OpenClosedPrinciple\obj\Debug\net6.0\OCP.OpenClosedPrinciple.AssemblyInfo.cs
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\OCP.OpenClosedPrinciple\obj\Debug\net6.0\OCP.OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\OCP.OpenClosedPrinciple\obj\Debug\net6.0\OCP.OpenClosedPrinciple.dll
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\OCP.OpenClosedPrinciple\obj\Debug\net6.0\refint\OCP.OpenClosedPrinciple.dll
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\OCP.OpenClosedPrinciple\obj\Debug\net6.0\OCP.OpenClosedPrinciple.pdb
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\OCP.OpenClosedPrinciple\obj\Debug\net6.0\OCP.OpenClosedPrinciple.genruntimeconfig.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\OCP.OpenClosedPrinciple\obj\Debug\net6.0\ref\OCP.OpenClosedPrinciple.dll
