@@ -1,0 +1,15 @@
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\ISP.InterfaceSegregationPrinciple\bin\Debug\net6.0\ISP.InterfaceSegregationPrinciple.exe
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\ISP.InterfaceSegregationPrinciple\bin\Debug\net6.0\ISP.InterfaceSegregationPrinciple.deps.json
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\ISP.InterfaceSegregationPrinciple\bin\Debug\net6.0\ISP.InterfaceSegregationPrinciple.runtimeconfig.json
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\ISP.InterfaceSegregationPrinciple\bin\Debug\net6.0\ISP.InterfaceSegregationPrinciple.dll
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\ISP.InterfaceSegregationPrinciple\bin\Debug\net6.0\ISP.InterfaceSegregationPrinciple.pdb
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\ISP.InterfaceSegregationPrinciple\obj\Debug\net6.0\ISP.InterfaceSegregationPrinciple.csproj.AssemblyReference.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\ISP.InterfaceSegregationPrinciple\obj\Debug\net6.0\ISP.InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\ISP.InterfaceSegregationPrinciple\obj\Debug\net6.0\ISP.InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\ISP.InterfaceSegregationPrinciple\obj\Debug\net6.0\ISP.InterfaceSegregationPrinciple.AssemblyInfo.cs
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\ISP.InterfaceSegregationPrinciple\obj\Debug\net6.0\ISP.InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\ISP.InterfaceSegregationPrinciple\obj\Debug\net6.0\ISP.InterfaceSegregationPrinciple.dll
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\ISP.InterfaceSegregationPrinciple\obj\Debug\net6.0\refint\ISP.InterfaceSegregationPrinciple.dll
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\ISP.InterfaceSegregationPrinciple\obj\Debug\net6.0\ISP.InterfaceSegregationPrinciple.pdb
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\ISP.InterfaceSegregationPrinciple\obj\Debug\net6.0\ISP.InterfaceSegregationPrinciple.genruntimeconfig.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\ISP.InterfaceSegregationPrinciple\obj\Debug\net6.0\ref\ISP.InterfaceSegregationPrinciple.dll
