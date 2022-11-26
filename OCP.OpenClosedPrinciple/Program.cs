@@ -17,3 +17,8 @@ Console.WriteLine("** Ziraat Bankasından Para Gönderme");
 bankTransactionsOCP.SendMoney(new ZiraatOCP(), 700, "1234567890");
 Console.WriteLine("** Garanti Bankasından Para Gönderme");
 bankTransactionsOCP.SendMoney(new GarantiOCP(), 250, "1234567890");
+
+///<summary>
+///OCP örneklerde görüldüğü üzere amaç kodlamanın geliştirilebilme açısında daha uygun olmaya çalışılmasıdır.
+///Satır 7'deki kullanıma göre satır 15 ve 17'deki gibi tek bir tanımlama ile istediğimiz yerden isteğimizi gerçekleştirebiliyoruz.
+/// </summary>
