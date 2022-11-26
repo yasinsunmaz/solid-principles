@@ -39,3 +39,9 @@ Console.WriteLine("*** Azure Hizmeti ***");
 cloudServicesLSP = new AzureLSP();
 cloudServicesLSP.MachineLearning();
 (cloudServicesLSP as ITranslatable)?.Translate();
+
+///<summary>
+///LSP örneklerde görüldüğü üzere amaç ortak işlevleri yerine getiren durumlar dışında farklı bir durumun eklenmesi ile
+///mevcut yapıyı bozmadan devam edebilecek şekilde kurguyu devam ettirmektir.
+///Satır 22'deki kullanıma göre satır 41'deki kullanım LSP'ye uygun doğru bir kullanımdır.
+/// </summary>
