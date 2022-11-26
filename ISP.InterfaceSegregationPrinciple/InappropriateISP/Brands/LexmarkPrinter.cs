@@ -2,6 +2,7 @@
 
 namespace ISP.InterfaceSegregationPrinciple.InappropriateISP.Brands
 {
+  //TODO: Inappropriate ISP - Uygunsuz ISP
   public class LexmarkPrinter : IPrinter
   {
     public void Fax()

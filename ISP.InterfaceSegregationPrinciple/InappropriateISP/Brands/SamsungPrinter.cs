@@ -2,6 +2,7 @@
 
 namespace ISP.InterfaceSegregationPrinciple.InappropriateISP.Brands
 {
+  //TODO: Inappropriate ISP - Uygunsuz ISP
   public class SamsungPrinter : IPrinter
   {
     public void Fax()

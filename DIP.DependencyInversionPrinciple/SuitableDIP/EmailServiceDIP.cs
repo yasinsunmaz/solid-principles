@@ -2,6 +2,7 @@
 
 namespace DIP.DependencyInversionPrinciple.SuitableDIP
 {
+  //TODO: Suitable DIP - Uygun DIP
   public class EmailServiceDIP
   {
     public void SendEmail(IEmailService emailServer, string to, string body)

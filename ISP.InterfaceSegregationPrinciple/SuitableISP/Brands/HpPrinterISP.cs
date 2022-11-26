@@ -2,6 +2,7 @@
 
 namespace ISP.InterfaceSegregationPrinciple.SuitableISP.Brands
 {
+  //TODO: Suitable ISP - Uygun ISP
   public class HpPrinterISP : IFax, IPrint, IPhotocopy, IScan
   {
     public void Fax()
