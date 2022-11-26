@@ -1,0 +1,15 @@
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\SRP.SingleResponsibilityPrinciple\bin\Debug\net6.0\SRP.SingleResponsibilityPrinciple.exe
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\SRP.SingleResponsibilityPrinciple\bin\Debug\net6.0\SRP.SingleResponsibilityPrinciple.deps.json
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\SRP.SingleResponsibilityPrinciple\bin\Debug\net6.0\SRP.SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\SRP.SingleResponsibilityPrinciple\bin\Debug\net6.0\SRP.SingleResponsibilityPrinciple.dll
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\SRP.SingleResponsibilityPrinciple\bin\Debug\net6.0\SRP.SingleResponsibilityPrinciple.pdb
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\SRP.SingleResponsibilityPrinciple\obj\Debug\net6.0\SRP.SingleResponsibilityPrinciple.csproj.AssemblyReference.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\SRP.SingleResponsibilityPrinciple\obj\Debug\net6.0\SRP.SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\SRP.SingleResponsibilityPrinciple\obj\Debug\net6.0\SRP.SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\SRP.SingleResponsibilityPrinciple\obj\Debug\net6.0\SRP.SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\SRP.SingleResponsibilityPrinciple\obj\Debug\net6.0\SRP.SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\SRP.SingleResponsibilityPrinciple\obj\Debug\net6.0\SRP.SingleResponsibilityPrinciple.dll
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\SRP.SingleResponsibilityPrinciple\obj\Debug\net6.0\refint\SRP.SingleResponsibilityPrinciple.dll
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\SRP.SingleResponsibilityPrinciple\obj\Debug\net6.0\SRP.SingleResponsibilityPrinciple.pdb
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\SRP.SingleResponsibilityPrinciple\obj\Debug\net6.0\SRP.SingleResponsibilityPrinciple.genruntimeconfig.cache
+C:\Users\yasin.sunmaz\source\repos\SOLIDPrinciples\SRP.SingleResponsibilityPrinciple\obj\Debug\net6.0\ref\SRP.SingleResponsibilityPrinciple.dll
