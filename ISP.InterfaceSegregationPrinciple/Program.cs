@@ -31,3 +31,9 @@ LexmarkPrinterISP lexmarkPrinterISP = new();
 lexmarkPrinterISP.Fax();
 lexmarkPrinterISP.Print();
 lexmarkPrinterISP.Scan();
+
+///<summary>
+///ISP örneklerde görüldüğü üzere amaç intefaceleri birbirinde ayırarak dinamik bir şekilde kullanmak geliştirme ve hatayı önlemeyi sağlar.
+///Satır 13'teki kullanıma göre satır 20 ve sonrasındaki kullanımlar ISP'ye uygun doğru bir kullanımdır.
+///Bu sayede satır 28'deki durumu yaşama ihtimali hiç olmayacaktır.
+/// </summary>
